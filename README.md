@@ -15,17 +15,25 @@ B = the sister of my second sister’s daughter’s maternal grandmother’s hus
 **Step Two:**
 Breaking down the relationships step by step for A, where A is:
 A = the brother of my third brother’s son’s paternal grandfather, then:
+
 My third brother’s son: This would be my Nephew.
+
 My Nephew’s paternal grandfather: This would be my Dad.
+
 The brother of my Dad: This would be my Uncle.
 
 **Step Three:**
 Breaking down the relationships step by step for B, where B is:
 B = the sister of my second sister’s daughter’s maternal grandmother’s husband’s brother, then:
+
 My second sister’s daughter: This would be my niece.
+
 My niece’s maternal grandmother: This would be my Mom.
+
 My Mom’s husband: This would be my Dad.
+
 My Dad’s brother: This would be my Uncle
+
 The sister of my Uncle: This would be my Aunt.
 
 Step Four:
