@@ -1,4 +1,4 @@
-# Chatbot-training-Examples
+# Exploring ways to outsmart a chatbot.
 Here are examples of how to trick chatbots by inserting logical and parallel information they can't process.
 
 What is the relation between the brother of my third brother’s son’s paternal grandfather and the sister of my second sister’s daughter’s maternal grandmother’s husband’s brother?
