@@ -41,7 +41,6 @@ The sister of my Uncle: This would be my Aunt.
 Step Four:
 Hence, the relationship between them is that of brother and sister or just siblings
 
-\newpage
 
 **PROBLEM 2**
 
